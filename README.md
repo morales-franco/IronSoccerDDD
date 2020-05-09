@@ -1,7 +1,7 @@
 # Iron Soccer DDD
-### Domain Driven Design - Implementation with Net Core 3.1 + E.F Core
+## Domain Driven Design - Implementation with Net Core 3.1 + E.F Core
 
-#### Topics
+### Topics
 1. Domain Driven Design implementation
 2. Implementing Domain Model in E.F Core
 3. Repository Pattern 
@@ -17,7 +17,7 @@
 13. Guard to validation in domain model
 14. Extension of Dependency Injection Engine with SCRUTOR - Registering dependencies scanning assemblies
 
-#### Domain Rules
+### Domain Rules
 
 **Country Entity**
 1. Fixes entities - the system only has 5 countries: Argentina | New Zealand | Germany | Chile | Spain
