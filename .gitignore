@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/IronSoccerDDD/v16
+/IronSoccerDDD.Api/bin/Debug/netcoreapp3.1
+/IronSoccerDDD.Api/obj
+/IronSoccerDDD.Core/bin/Debug/netstandard2.0
+/IronSoccerDDD.Core/obj
+/IronSoccerDDD.Infraestructure/bin/Debug/netstandard2.0
+/IronSoccerDDD.Infraestructure/obj
