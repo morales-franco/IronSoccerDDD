@@ -19,6 +19,7 @@ namespace IronSoccerDDD.Api
 {
     public class Startup
     {
+        //test
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
